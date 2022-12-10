@@ -1,0 +1,2 @@
+Primary key : unique identifier for each row in a table
+Foreign key : unique identifier for each row in a table that is also a primary key in another table
